@@ -1,0 +1,8 @@
+{
+  "name": "ISMS – SHE SOP & Audit Management (SMKP & ISO)",
+  "description": "Sistem Terintegrasi Manajemen SHE untuk Pengelolaan Dokumen SOP, Audit Kepatuhan SMKP Minerba Kepdirjen 185, dan ISO 9001, 14001, 45001",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
